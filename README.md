@@ -11,6 +11,7 @@ This project uses CakePHP, see CakeREADME.md for CakePHP requirements.
 ## Database
 ### Files 
 There are two files that 
+
 1. `DatabaseSchema.sql` - Database schema
 2. `DatabaseSampleData.sql` - Sample Data to Test
 
