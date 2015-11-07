@@ -15,7 +15,7 @@ There are two files that
 2. `DatabaseSampleData.sql` - Sample Data to Test
 
 ### Sample Database Configuration for CakePHP
-'''
+```
 public $default = array(
                 'datasource' => 'Database/Mysql',
                 'persistent' => false,
@@ -26,4 +26,4 @@ public $default = array(
                 'prefix' => '',
                 //'encoding' => 'utf8',
  );
-'''
+```
