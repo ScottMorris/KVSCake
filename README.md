@@ -17,13 +17,13 @@ There are two files that
 ### Sample Database Configuration for CakePHP
 ```
 public $default = array(
-                'datasource' => 'Database/Mysql',
-                'persistent' => false,
-                'host' => 'localhost',
-                'login' => 'username',
-                'password' => 'password',
-                'database' => 'kvs',
-                'prefix' => '',
-                //'encoding' => 'utf8',
+	'datasource' => 'Database/Mysql',
+	'persistent' => false,
+	'host' => 'localhost',
+	'login' => 'username',
+	'password' => 'password',
+	'database' => 'kvs',
+	'prefix' => '',
+	//'encoding' => 'utf8',
  );
 ```
